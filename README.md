@@ -1,16 +1,16 @@
 ## Vitalii L. 👋
-I'm 23 y.o, live in St. Petersburg.
+I'm 24 y.o, live in St. Petersburg.
 
-Full-time, part-time (remote, office).
+Full-time, part-time (remote, office, gybrid).
 
 **English** (B1) • **Russian** (Native) • **Czech** (A1).
 
-Overall experience as a Front-End Developer - 1 year.
+Overall experience as a Front-End Developer - 2 year.
 
 ## Contacts 📲 
 <p align="left">
     <a href="https://t.me/vileontev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/vileontev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/vileontevv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:exwadecoop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
